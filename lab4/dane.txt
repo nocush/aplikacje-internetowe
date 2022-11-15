@@ -1,0 +1,5 @@
+Paweł 11 Polska C# HTML sadsad@ds.kl visa <br>
+Krawczyk 23 Polska C CPP Java sadsad@ds.kl przelew bankowy <br>
+Elżbieta 42 Polska XML sadsad@ds.kl eurocard <br>
+Adam 18 Polska Java sadsad@ds.kl visa <br>
+Anastazja 99 Polska CPP sadsad@ds.kl eurocard <br>
